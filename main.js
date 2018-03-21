@@ -15,19 +15,4 @@ $(document).ready(function(){
             $('#res').val(val);
         }
     });
-
-
-
-    // function btnAction(action){
-    //     operation = action;
-    //     if(tNb[0] == null){
-    //         tNb[0] == $("#calculator-result").text();
-    //     }
-    //     if(){
-    //         tNb[0] == ;
-    //     }
-    //     if(action == "addition") {
-    //         $("#calculator-result").val(eval(tNb[0] + tNb[1]));
-    //     }
-    // }
 });
